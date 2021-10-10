@@ -3,3 +3,22 @@ This repository includes solutions to Python problems I found on the websites li
 1) HackerRank (HR) 
 2) Edabit (EB)
 3) 
+
+
+The problem to be solved in each project are listed below:
+1) Encoding the Matrix: (HR)
+https://www.hackerrank.com/challenges/matrix-script/problem
+(The problem has been customized slightly)
+Write a program to strip alphabets or punctuation from the given input and print them as a sentence. An example is demonstrated as follows:
+Input:
+7 3
+Tsi
+h%x
+i #
+sM 
+$a 
+#t%
+ir!
+
+Output: 
+This is Matrix!
