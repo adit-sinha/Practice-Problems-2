@@ -5,6 +5,13 @@ This repository includes solutions to Python problems I found on the websites li
 3) 
 
 
+
+Note: Files without a number written in parenthesis are user-defined functions
+
+
+
+
+
 The problem to be solved in each project are listed below:
 1) Encoding the Matrix: (HR)
 https://www.hackerrank.com/challenges/matrix-script/problem
