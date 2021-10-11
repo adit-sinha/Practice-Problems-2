@@ -29,3 +29,10 @@ ir!
 
 Output: 
 This is Matrix!
+
+Upcoming:
+2) Minesweeper
+https://edabit.com/challenge/YDgtdP69Mn9pC73xN
+3) Sudoku
+https://edabit.com/challenge/CMDy4pvnTZkFwJmmx
+3) 
