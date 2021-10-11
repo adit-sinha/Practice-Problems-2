@@ -39,3 +39,5 @@ https://edabit.com/challenge/CMDy4pvnTZkFwJmmx
 4) TicTacToe
 (based on the popular board game)
 
+5) Autocorrect 
+Automatically corrects entered strings to known english words or leaves them be if the word is too unique.
