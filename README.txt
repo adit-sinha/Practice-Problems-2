@@ -35,4 +35,7 @@ Upcoming:
 https://edabit.com/challenge/YDgtdP69Mn9pC73xN
 3) Sudoku
 https://edabit.com/challenge/CMDy4pvnTZkFwJmmx
-3) 
+
+4) TicTacToe
+(based on the popular board game)
+
