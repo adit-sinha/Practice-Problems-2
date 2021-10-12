@@ -46,3 +46,4 @@ Errors to fix:
 (ii) Printing words such as 'I'm'
 (iii) Miscellaneous errors
 (iv) Writing multiple symbols/digits
+(v) Writing numbers with symbols
