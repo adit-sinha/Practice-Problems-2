@@ -41,3 +41,7 @@ https://edabit.com/challenge/CMDy4pvnTZkFwJmmx
 
 5) Autocorrect 
 Automatically corrects entered strings to known english words or leaves them be if the word is too unique.
+Errors to fix:
+(i) Capitalizing letters for new sentences
+(ii) Printing words such as 'I'm'
+(iii) Miscellaneous errors
