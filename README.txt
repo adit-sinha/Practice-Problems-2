@@ -45,3 +45,4 @@ Errors to fix:
 (i) Capitalizing letters for new sentences
 (ii) Printing words such as 'I'm'
 (iii) Miscellaneous errors
+(iv) Writing multiple symbols/digits
