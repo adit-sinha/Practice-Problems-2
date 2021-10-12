@@ -47,3 +47,5 @@ Errors to fix:
 (iii) Miscellaneous errors
 (iv) Writing multiple symbols/digits
 (v) Writing numbers with symbols
+
+6) Hangman
