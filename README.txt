@@ -39,7 +39,7 @@ https://edabit.com/challenge/CMDy4pvnTZkFwJmmx
 4) TicTacToe
 (based on the popular board game)
 
-5) Autocorrect 
+5) Autocorrect System
 Automatically corrects entered strings to known english words or leaves them be if the word is too unique.
 Errors to fix:
 (i) Capitalizing letters for new sentences
@@ -49,3 +49,8 @@ Errors to fix:
 (v) Writing numbers with symbols
 
 6) Hangman
+Based on the game with the same name
+Errors to fix:
+(i) Multiple letters 
+(ii) Create list of used letters
+(iii) Prevent used letters or spaces being counted as errors
