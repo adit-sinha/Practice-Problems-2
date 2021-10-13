@@ -51,6 +51,8 @@ Errors to fix:
 6) Hangman
 Based on the game with the same name
 Errors to fix:
-(i) Multiple letters 
-(ii) Create list of used letters
-(iii) Prevent used letters or spaces being counted as errors
+(i) Create list of used letters
+(ii) Prevent used letters or spaces being counted as errors
+
+Additional features to add:
+(i) Clues when on last error
