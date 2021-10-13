@@ -49,10 +49,7 @@ Errors to fix:
 (v) Writing numbers with symbols
 
 6) Hangman
-Based on the game with the same name
-Errors to fix:
-(i) Create list of used letters
-(ii) Prevent used letters or spaces being counted as errors
+Based on the game with the same name.
 
 Additional features to add:
 (i) Clues when on last error
