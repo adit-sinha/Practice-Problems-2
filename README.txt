@@ -51,5 +51,17 @@ Errors to fix:
 6) Hangman
 Based on the game with the same name.
 
-Additional features to add:
-(i) Clues when on last error
+Features:
+1) Accepts any amount of letters. 
+For example: For the word 'EXHALE' you may enter 'XHALE' or 'ha' or 'lE' and so on
+2) The input isn't case sensitive.
+For example: For the word 'BELIEVE' you may enter 'B' or 'b' or 'bE' and so on
+3) You have to guess only 1 word.
+4) 5 wrong attempts until you lose.
+5) On your 3rd wrong attempt, the program lists all letters you are yet to guess.
+6) On your 4th wrong attempt, the program lists 4 letters out of which, one is correct.
+
+Future features:
+1) Multiple words
+2) Difficulty levels (Easy/Medium/Hard)
+3) Themes such as Movies and Shows, Popular Brands, etc.
