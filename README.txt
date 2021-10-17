@@ -65,3 +65,6 @@ Future features:
 1) Multiple words
 2) Difficulty levels (Easy/Medium/Hard)
 3) Themes such as Movies and Shows, Popular Brands, etc.
+
+7) Top Trumps 
+
