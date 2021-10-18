@@ -66,5 +66,11 @@ Future features:
 2) Difficulty levels (Easy/Medium/Hard)
 3) Themes such as Movies and Shows, Popular Brands, etc.
 
-7) Top Trumps 
+7) Top Trumps (1v1: Computer)
+Based on the game with the same name. This game uses the Star Wars: Episode IV-VI Top Trumps for reference.
+
+Future features:
+1) Multiple comp. users
+2) Simplify code: Use OOP
+3) Make UI more simplistic
 
