@@ -1,0 +1,9 @@
+#Solution to Problem Code: TEST
+output = []
+for i in range(1000000):
+    inp = input()
+    if inp == '42':
+        break
+    output.append(inp)
+for line in output:
+    print(line)
