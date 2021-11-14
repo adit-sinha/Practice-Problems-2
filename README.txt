@@ -2,7 +2,7 @@
 This repository includes solutions to Python problems I found on the websites listed below. To identify the website the problem is from, refer to their tag mentioned in the parenthesis:
 1) HackerRank (HR) 
 2) Edabit (EB)
-3) 
+3) CodeChef (CC)
 
 
 
@@ -74,3 +74,5 @@ Future features:
 2) Simplify code: Use OOP
 3) Make UI more simplistic
 
+8) Life, the Universe, and Everything (CC)
+Details: https://www.codechef.com/problems/TEST
