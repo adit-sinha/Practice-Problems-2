@@ -1,0 +1,78 @@
+#Solution to 'Magic Board' (MBOARD) (CC)
+
+def RowQuery(str):
+    global maplis
+    return maplis[str-1].count('0')
+
+def ColQuery(str):
+    global maplis
+    sumcol = 0
+    for term in maplis:
+        if term[str-1] == '0':
+            sumcol += 1
+    return sumcol
+
+def RowSet(str,num):
+    global maplis
+    global N
+    maplis[str-1] = N*num
+        
+        
+def ColSet(str,num):
+    global maplis
+    for term in range(len(maplis)):
+        maplis[term] = list(maplis[term])
+        maplis[term][str-1] = num
+        maplis[term] = ''.join(maplis[term])
+    
+        
+        
+def QueryChoice(num):
+    global I
+    if num == 0:
+        ans = RowQuery(I)
+    else:
+        ans = ColQuery(I)
+    return ans
+        
+def SetChoice(num):
+    global I,X
+    if num == 2:
+        RowSet(I,X)
+    else:
+        ColSet(I,X)
+        
+NQ = input()
+N = int(NQ.split()[0])
+#Board = N*N
+Q = int(NQ.split()[1])
+#Q = Number of test cases
+
+output = []
+
+maplis = []
+#list contains map
+for num in range(N):
+    maplis.append('0'*N)
+
+
+while Q>0:
+    OpIX = input()
+    Op = OpIX.split()[0]
+    I = int(OpIX.split()[1])
+    X = ''
+    if len(OpIX.split()) >= 3:
+        X = OpIX.split()[2]
+    
+    ans = ''
+    Oplis = ['RowQuery', 'ColQuery', 'RowSet', 'ColSet']
+    for num in range(len(Oplis)):
+        if Op == Oplis[num]:
+            if num>1:
+                SetChoice(num)
+            else:
+                ans = QueryChoice(num)
+                output.append(ans)
+    Q -= 1
+for line in output:
+    print(line)
