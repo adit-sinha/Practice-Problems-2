@@ -76,3 +76,7 @@ Future features:
 
 8) Life, the Universe, and Everything (CC)
 Details: https://www.codechef.com/problems/TEST
+
+9) Magic Board (CC)
+Details: https://www.codechef.com/problems/MBOARD
+Note: My solution exceeded the time limit.
